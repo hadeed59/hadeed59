@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hadeed</h1>
 <h3 align="center">Code Artisan from Pakistan 🚀 | Sculpting Digital Elegance 💻</h3>
+<img align=''right'' alt=''animated code gif '' width=''400'' src=https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif ' 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadeed59&label=Profile%20views&color=0e75b6&style=flat" alt="hadeed59" /> </p>
@@ -11,8 +12,6 @@
 - 📫 How to reach me **hadeed.islam@hotmail.com**
 
 - ⚡ Fun fact **I speak fluent in binary and my favorite color is #00FF00.**
-<img align=''right'' alt=''animated code gif '' width=''400'' src=https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif ' 
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
