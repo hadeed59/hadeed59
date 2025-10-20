@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web lifecycles & MERN Stack**
 
-- 📫 How to reach me **hadeed.islam@hotmail.com**
+- 📫 How to reach me **hadeed.islamvhr@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
